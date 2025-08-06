@@ -3,7 +3,7 @@
 ### 🧑‍🔬 PhD Student | Quantum Materials Modeling | Automation Enthusiast
 
 - **Current Position:**  
-  PhD Student in the [Quantum Materials Modeling group](https://www.univie.ac.at/) at the University of Vienna
+  PhD Student in the [Computational Materials Physics group](https://cmp.univie.ac.at/) at the University of Vienna
 
 - **Tech Stack:**  
   Python · Streamlit · MongoDB · High-throughput Workflows · Automation

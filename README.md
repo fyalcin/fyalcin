@@ -1,27 +1,24 @@
-# 👋 Hi, I'm Fırat Yalçın
+# Hi, I'm Fırat Yalçın 👋
 
-### 🧑‍🔬 PhD Student | Quantum Materials Modeling | Automation Enthusiast
+I'm a computational materials physicist from Vienna, on my way into software and
+automation. I'm finishing my PhD at the University of Vienna (computational materials
+modelling, with DFT), with the defence expected in early 2027. For more than eight years
+I have been writing Python tools that run large scale workflows by themselves, because
+I would much rather build a machine to do a tedious job than do it twice 😄
 
-- **Current Position:**  
-  PhD Student in the [Computational Materials Physics group](https://cmp.univie.ac.at/) at the University of Vienna
+Here are the open-source projects I maintain:
 
-- **Tech Stack:**  
-  Python · Streamlit · MongoDB · High-throughput Workflows · Automation
+Research:
+- [surfflow](https://github.com/fyalcin/surfflow) calculates surface energies of arbitrary crystals automatically ([paper](https://doi.org/10.1016/j.commatsci.2024.112799)).
 
-- **Projects:**  
-  - **Surfflow**: Automated calculation of surface energies  
-  - **PolFlow**: Automated polaron modeling
+- [polflow](https://github.com/fyalcin/polflow) automates the modelling of polarons in materials ([paper](https://doi.org/10.1038/s41524-026-01983-5)).
 
-- **What Drives Me:**  
-  I’m passionate about bringing ideas to life—especially those that automate tedious tasks. I love building tools that make science and engineering smoother, faster, and more fun.
+Personal:
+- [Jobweaver](https://github.com/fyalcin/jobweaver) is my newest, a self-hosted workspace that collects job postings and drafts applications from facts you can defend. It was built with AI coding agents to my specification and just went public, so please try it and [tell me what you think](https://github.com/fyalcin/jobweaver/issues).
 
-- **Hobbies:**  
-  When I’m not coding, you’ll find me in the kitchen, perfecting my focaccia and pizza skills. I’m always looking for ways to improve—whether it’s a dough recipe or a line of code.  
-  Recently, I’ve been fascinated by the possibilities of large language models and the creative ways people use them.
+Away from the simulations, I'm a self-hosting addict 😄: I like running my own services,
+keeping my data at home, taking devices back from the cloud and automating the house with
+Home Assistant. I care about open source, I'm learning to work with AI agents, and I bake a lot: pizza, focaccia, Japanese milk bread, lahmacun... Oh, and tiramisu, always 😄
 
-- **Let’s Connect:**  
-  [LinkedIn](https://www.linkedin.com/in/f%C4%B1rat-yal%C3%A7%C4%B1n-14425aa5/)
-
----
-
-<!-- Minimal + Colorful vibe: keep it clean but add a touch of color via emojis and section headers. -->
+If you try one of my projects or have a question, I'd love to hear from you.
+You can find me on [LinkedIn](https://www.linkedin.com/in/firat-yalcin).
